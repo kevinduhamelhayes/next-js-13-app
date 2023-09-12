@@ -1,3 +1,5 @@
-export default function Post() {
-  return <h1>hola soy el Post</h1>;
+const post = () => {
+  return <div>hola soy el Post</div>
 }
+
+export default post
