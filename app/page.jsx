@@ -7,4 +7,4 @@ export default function Home() {
     </main>
   )
 }
-// hola yo del futuro este proyecto esta creado con next13 a los fines de explicar y practicar la paginacion tailwind esta en funcionamiento y se puede ver en el archivo globals.css, cada carpeta en next debe tener el nombre de la ruta y el archivo page que es el que se renderizara en la ruta puedes acceder a params para hacerlo dinamico pero no puedes anidarlo salvo carpeta dentro de carpeta
+// hola yo del futuro este proyecto esta creado con next13 a los fines de explicar y practicar la paginacion tailwind esta en funcionamiento y se puede ver en el archivo globals.css, cada carpeta en next debe tener el nombre de la ruta y el archivo page que es el que se renderizara en la ruta puedes acceder a params para hacerlo dinamico pero no puedes anidarlo salvo carpeta dentro de carpeta, tenemos  un problema con el linter que no me gusta pero pronto lo solucionare ( esta peleando slint prettier y standard)
